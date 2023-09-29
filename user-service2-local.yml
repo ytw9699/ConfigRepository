@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
-    username: sa
-    password: '{cipher}AQAjajHHaW3TIR/J8iCEw3AssHj6ghSJG4iPg+oVoDlMi9HKsinJEy4We0oEzSUajmBC3yiKd1Oha1pK2n3Hc8O6e6Oziw1U2HCNKkJ3AXv4MS+Tvtg84qD6NYEHcKz1bHT31zm8Dk5i70BwPF7MbCIeepq1RCp4n4RXDD/XHH7Y8HGpBDvyOrYTkyuMcXHhlRfRLrIEu4Lmj9ExcCnetTDVq7a/kCgFWGfhmHQBnrQYu3VphzMUv8Mo0qRD9cIc0IkrwsrfLs5IC3frqhOTtDU5dt1qxKF2Zet2KvaFUwr+Q2QEHYZ0KsdskioTPuoLmvhh5Y4VLy3ETVMvJ7VJ219S3xdrxCjT6vobzMKWIY4Ak8AnpOvVxuZm/711nyEfJHM='
+    #username: sa
+    #password: '{cipher}AQAjajHHaW3TIR/J8iCEw3AssHj6ghSJG4iPg+oVoDlMi9HKsinJEy4We0oEzSUajmBC3yiKd1Oha1pK2n3Hc8O6e6Oziw1U2HCNKkJ3AXv4MS+Tvtg84qD6NYEHcKz1bHT31zm8Dk5i70BwPF7MbCIeepq1RCp4n4RXDD/XHH7Y8HGpBDvyOrYTkyuMcXHhlRfRLrIEu4Lmj9ExcCnetTDVq7a/kCgFWGfhmHQBnrQYu3VphzMUv8Mo0qRD9cIc0IkrwsrfLs5IC3frqhOTtDU5dt1qxKF2Zet2KvaFUwr+Q2QEHYZ0KsdskioTPuoLmvhh5Y4VLy3ETVMvJ7VJ219S3xdrxCjT6vobzMKWIY4Ak8AnpOvVxuZm/711nyEfJHM='
 
 token:
   expiration_time: 86400005
